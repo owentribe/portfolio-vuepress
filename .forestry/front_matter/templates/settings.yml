@@ -55,5 +55,11 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: page_background
+  type: color
+  config:
+    required: false
+    color_format: Hex
+  label: page background
 pages:
 - portfolio/config.json
