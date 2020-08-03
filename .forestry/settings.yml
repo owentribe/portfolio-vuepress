@@ -12,7 +12,6 @@ sections:
 - type: document
   path: work
   label: How we work
-  match: "**/*"
 - type: directory
   path: capabilities
   label: Capabilities
