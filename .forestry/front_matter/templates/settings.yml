@@ -61,5 +61,3 @@ fields:
     required: false
     color_format: Hex
   label: page background
-pages:
-- portfolio/config.json
